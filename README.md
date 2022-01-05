@@ -1,25 +1,25 @@
 <h1 align="center">
-<img width=60% src="https://github.com/hasaniqbal777/aXonica-bin/blob/master/media/logo.svg">
+<img width=60% src="https://github.com/mominaj/aXonica-bin/blob/master/media/logo.svg">
 </h1>
 
-<h4 align="center">A Magnetic Resonance Imaging Solution</h4>
+<h4 align="center">A support package for MRI based Neuroimaging</h4>
 
 <h2 align="center">
-<img width=65% src="https://github.com/hasaniqbal777/aXonica-bin/blob/master/media/distros.svg">
+<img width=65% src="https://github.com/mominaj/aXonica-bin/blob/master/media/distros.svg">
 </h2>
 
 <p align="center">
 <a href="https://www.gnu.org/licenses/gpl-3.0">
     <img src="https://img.shields.io/badge/License-GPL%20v3-blue.svg">
 </a>
-<a href="https://github.com/hasaniqbal777/aXonica-bin/releases">
-    <img src="https://img.shields.io/github/release/hasaniqbal777/aXonica-bin.svg">
+<a href="https://github.com/mominaj/aXonica-bin/releases">
+    <img src="https://img.shields.io/github/release/mominaj/aXonica-bin.svg">
 </a>
-<a href="https://github.com/hasaniqbal777/aXonica-bin/issues">
-    <img src="https://img.shields.io/github/issues/hasaniqbal777/aXonica-bin.svg">
+<a href="https://github.com/mominaj/aXonica-bin/issues">
+    <img src="https://img.shields.io/github/issues/mominaj/aXonica-bin.svg">
 </a>
-<a href="https://github.com/hasaniqbal777/aXonica-bin/search?l=shell">
-    <img src="https://img.shields.io/github/languages/top/hasaniqbal777/aXonica-bin.svg">
+<a href="https://github.com/mominaj/aXonica-bin/search?l=shell">
+    <img src="https://img.shields.io/github/languages/top/mominaj/aXonica-bin.svg">
 </a>
 </p>
 
@@ -37,7 +37,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com). From 
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/hasaniqbal777/aXonica-bin
+$ git clone https://github.com/mominaj/aXonica-bin
 
 # Go into the repository
 $ cd aXonica-bin
@@ -58,7 +58,7 @@ Follow the on-screen dialogue boxes for installation.
 This project complies against license [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0).
 
 ## 📙 Docs
-* [User Guide](https://github.com/hasaniqbal777/aXonica/blob/master/Docs/supplementary_user-guide.pdf)
+* [User Guide](https://github.com/mominaj/aXonica/blob/master/Docs/supplementary_user-guide.pdf)
 
 ## 📔 Revision History
 **Version 1.0**
